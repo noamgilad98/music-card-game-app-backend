@@ -1,6 +1,7 @@
 /Users/noamgilad/Downloads/music-card-game-app-backend/src/main/java/com/musiccardgame/MusicCardGameAppBackendApplication.java
 /Users/noamgilad/Downloads/music-card-game-app-backend/src/main/java/com/musiccardgame/config/GameConfig.java
 /Users/noamgilad/Downloads/music-card-game-app-backend/src/main/java/com/musiccardgame/config/SpotifyConfig.java
+/Users/noamgilad/Downloads/music-card-game-app-backend/src/main/java/com/musiccardgame/config/WebSecurityConfig.java
 /Users/noamgilad/Downloads/music-card-game-app-backend/src/main/java/com/musiccardgame/config/WebSocketConfig.java
 /Users/noamgilad/Downloads/music-card-game-app-backend/src/main/java/com/musiccardgame/controller/CardController.java
 /Users/noamgilad/Downloads/music-card-game-app-backend/src/main/java/com/musiccardgame/controller/GameController.java
